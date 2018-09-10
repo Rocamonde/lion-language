@@ -13,6 +13,7 @@ Lion's proposed main features:
   - Human language-like syntax, while trying to preserve powerful OOP features.
   - Support for Python extensions
   
+**Warning: This repository is in a very early stage development**. It has not yet been documented and its directory tree may constantly suffer significant structural changes.
 
 ## Context and purpose
 
